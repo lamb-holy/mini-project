@@ -1,0 +1,15 @@
+.header {
+    position: absolute;
+    z-index: 999;
+}
+
+.search-list {
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+
+.header-nav {
+    display: flex;
+    flex-direction: row;
+}
