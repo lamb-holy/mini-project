@@ -1,0 +1,12 @@
+:root {
+    --main-color: #DD2242;
+    --text-color: #939393;
+    --blue-bg: rgb(1, 8, 23);
+    --title-white: rgba(255, 255, 255, 1);
+    --lighter-text: rgba(224, 224, 224, 1);
+}
+
+:root {
+    --main-font: "DM Sans", sans-serif;
+    --second-font: "Roboto", sans-serif;
+}
