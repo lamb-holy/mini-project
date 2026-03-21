@@ -18,3 +18,13 @@
     align-items: center;
     gap: 70px;
 }
+
+.header .list {
+    display: none;
+}
+
+@media (min-width: 768px) {
+  .header .list {
+    display: block;
+  }
+}

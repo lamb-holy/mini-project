@@ -4,6 +4,7 @@
     --blue-bg: rgb(1, 8, 23);
     --title-white: rgba(255, 255, 255, 1);
     --lighter-text: rgba(224, 224, 224, 1);
+    --paragraph: rgba(111, 119, 135, 1);
 }
 
 :root {
