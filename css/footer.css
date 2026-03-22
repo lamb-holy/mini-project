@@ -1,0 +1,54 @@
+.footer {
+    font-family: var(--main-font);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    text-align: center;
+    height: 723px;
+    background-color: rgba(1, 10, 32, 1);
+    color: white;
+    font-weight: 600;
+    font-size: 22.94px;
+    line-height: 35.69px;
+    letter-spacing: 0.64px;
+}
+
+.footer-logo {
+    display: flex;
+    align-items: end;
+    flex-direction: row;
+    width: 174px;
+    text-align: left;
+
+    font-family: var(--second-font);
+    font-weight: 800;
+    font-size: 23.96px;
+    line-height: 90%;
+    letter-spacing: 0.32px;
+    text-transform: uppercase;
+}
+
+.explore-span {
+    color: rgba(221, 34, 66, 1);
+}
+
+.footer-info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 40px;
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
