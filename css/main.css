@@ -844,18 +844,6 @@ b {
     color: var(--paragraph);
 }
 
-/* .gallery {
-    column-count: 2;
-    column-gap: 10px;
-}
-
-.gallery-img {
-    width: 151px;
-    margin-bottom: 10px;
-    border-radius: 12px;
-    display: block;
-} */
-
 .gallery-img {
     width: 130px;
     border-radius: 12px;
